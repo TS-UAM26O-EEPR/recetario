@@ -13,9 +13,9 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-# Agrega tu receta debajo de esta línea
-# Ejemplo:
-# def receta_tacos():
-#     print(" Receta: Tacos de pollo")
-#     print("Ingredientes: tortillas, pollo, cebolla, cilantro")
-#     print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
+#Receta
+
+def receta_tacos():
+    print(" Receta: Tacos de pollo")
+    print("Ingredientes: tortillas, pollo, cebolla, cilantro")
+    print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
