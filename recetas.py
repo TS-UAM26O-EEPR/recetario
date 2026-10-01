@@ -13,7 +13,7 @@ def receta_pasta():
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
 
-# Agrega tu receta debajo de esta línea
+#Receta
 
 def receta_tacos():
     print(" Receta: Tacos de pollo")
